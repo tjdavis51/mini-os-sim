@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+*.lgf
+*.tar.gz
+/sim04/sim04
